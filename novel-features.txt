@@ -1,0 +1,4 @@
+Must have 3 useful novel client-side features
+1. google finance api
+2. search stock price of any ticker
+3. create a watchlist
